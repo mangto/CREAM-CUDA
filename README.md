@@ -1,5 +1,5 @@
 # CREAM (CoRy Enact Ai Model)
-This version uses CUDA. If youy want to use CPU (no CUDA), please visit mangto/CREAM
+This version uses CUDA. If youy want to use CPU (no CUDA), please visit [**Here**](https://github.com/mangto/CREAM)
 <div align="center">
 <img src="./CREAM.png" width="300px" height="300px" title="Github_Logo"/>
 </div>
